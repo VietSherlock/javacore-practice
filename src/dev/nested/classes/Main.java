@@ -1,7 +1,6 @@
 package dev.nested.classes;
 
 import dev.nested.classes.domain.Employee;
-import dev.nested.classes.domain.EmployeeComparator;
 
 import java.util.ArrayList;
 import java.util.List;
